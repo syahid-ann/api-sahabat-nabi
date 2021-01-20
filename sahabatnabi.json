@@ -1,0 +1,28 @@
+{
+    "daftar": [
+        {
+            "id": "1",
+            "nama": "Abu Bakar Ash-shiddiq",
+            "lahir": "Mekkah, Arab Saudi",
+            "judul": "Sosok Tegas Namun Lembut Hatinya."
+        },
+        {
+            "id": "2",
+            "nama": "Umar bin Khattab",
+            "lahir": "Mekkah, Arab Saudi",
+            "judul": "Tetap Sholat Walaupun Terluka Parah."
+        },
+        {
+            "id": "3",
+            "nama": "Utsman bin Affan",
+            "lahir": "Ta'if, Arab Saudi",
+            "judul": "Pemilik Dua Cahaya."
+        },
+        {
+            "id": "4",
+            "nama": "Khalid bin Walid",
+            "lahir": "Mekkah, Arab Saudi",
+            "judul": "Si Pedang Allah yang Terhunus."
+        }
+    ]
+}
